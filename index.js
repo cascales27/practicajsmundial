@@ -1,7 +1,7 @@
 
 import { setupArrays } from "./utils/index.js"
 import { teams16playoff } from "./teams.js"
-import  playofffinal  from "./clases/playofflast16.js//"
+import  playofffinal  from "./clases/playofflast16.js"
 import MundialPhaseFinal from "./clases/phaseplayoff.js"
 
 setupArrays();
